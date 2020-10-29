@@ -1,0 +1,22 @@
+{
+  "name": "text-splitter",
+  "version": "0.0.1",
+  "description": "Text splitting",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Insberr/text-splitter.git"
+  },
+  "keywords": [
+    "text-splitting"
+  ],
+  "author": "Insberr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Insberr/text-splitter/issues"
+  },
+  "homepage": "https://github.com/Insberr/text-splitter#readme"
+}
