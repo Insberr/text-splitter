@@ -1,12 +1,12 @@
 > *text-parser* | Text splitting and much more  
-> **Status:** Development
+> **Status:** Not being worked on
 
 # text-parser
 Text splitting and more.
 
 
 ## Maintainers
-- [Insberr (AKA SpiderGaming)](https://github.com/Insberr/)
+- [Insberr](https://github.com/insberr/)
 
 
 ## License
